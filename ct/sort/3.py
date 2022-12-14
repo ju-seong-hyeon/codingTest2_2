@@ -8,5 +8,5 @@ for i in range(m):
     if(a[i] < b[i]):
         a[i] = b[i]
     else:
-        break
+        break3
 print(sum(a))
